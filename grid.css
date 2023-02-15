@@ -36,6 +36,9 @@ body {
   border-radius: 50%;
   margin-right: 10px;
 }
+small{
+  opacity: 0.5;
+}
 .card h4 {
   margin: 10px 0 20px;
   gap: 1rem;
@@ -44,6 +47,7 @@ body {
 .card p {
   gap: 1rem;
   font-size: 12px;
+  opacity: 0.5;
 }
 p {
   line-height: 1.6rem;
