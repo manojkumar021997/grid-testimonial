@@ -27,6 +27,7 @@ body {
   border-radius: 10px;
   color: aliceblue;
   box-shadow: 4px 4px 8px gray;
+  
 }
 .card .image {
   display: flex;
